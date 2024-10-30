@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Docker
+docker-compose.yml
+
+# Ambiente de Desenvolvimento
+.env
+
+# Logs
+logs
+*.log
+
+# Diretórios de Build
+dist/
+build/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
